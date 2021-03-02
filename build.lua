@@ -18,7 +18,7 @@ checkruns     = 2
 
 uploadconfig = {
  pkg = "parskip",
- version = "v2.0g 2020-03-02",
+ version = "v2.0g 2021-03-02",
  author = "Frank Mittelbach",
  license = "lppl1.3c",
  summary = "Layout with zero \\parindent, non-zero \\parskip",
@@ -28,7 +28,6 @@ uploadconfig = {
  uploader = "Frank Mittelbach",
  email = "frank.mittelbach@latex-project.org",
  update = true ,
--- note = [[Uploaded by l3build...]],
 }
 
 
