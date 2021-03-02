@@ -274,3 +274,11 @@ TSWLatexianTemp*
 
 # Makeindex log files
 *.lpz
+
+
+###########################################
+# local ignores ...
+
+parskip-ctan.curlopt
+parskip-ctan.zip
+build
