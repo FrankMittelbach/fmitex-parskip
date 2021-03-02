@@ -8,13 +8,13 @@ Robin Fairbairns.
 
 Package source can be found below:
 
-https://github.com/FrankMittelbach/fmitex/  (development branch parskip)
+https://github.com/FrankMittelbach/fmitex-parskip
 
 The license is LPPL.
 
 -----
 
-Copyright (C) 2018 Frank Mittelbach<br />
+Copyright (C) 2018-2021 Frank Mittelbach<br />
 <https://latex-project.org/> <br />
 All rights reserved.
 
