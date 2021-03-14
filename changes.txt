@@ -1,3 +1,9 @@
+#### placed on CTAN as 2.0h ####
+
+2021-03-14  Frank Mittelbach  <Frank.Mittelbach@latex-project.org>
+
+	* parskip.dtx: correct doco to refer to new repository
+
 #### placed on CTAN as 2.0g ####
 
 2021-03-02  Frank Mittelbach  <Frank.Mittelbach@latex-project.org>
