@@ -14,7 +14,7 @@ The license is LPPL.
 
 -----
 
-Copyright (C) 2018-2021 Frank Mittelbach<br />
+Copyright (C) Frank Mittelbach (for year see .dtx file)<br />
 <https://latex-project.org/> <br />
 All rights reserved.
 

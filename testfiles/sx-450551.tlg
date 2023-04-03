@@ -7,18 +7,14 @@ Package: kvoptions ....-..-.. v... Key value format for package options (HO)
 (../keyval.sty
 Package: keyval ....-..-.. v... key=value parser (DPC)
 \KV@toks@=\toks...
-)
-(../ltxcmds.sty
+) (../ltxcmds.sty
 Package: ltxcmds ....-..-.. v... LaTeX kernel commands for general use (HO)
-)
-(../kvsetkeys.sty
+) (../kvsetkeys.sty
 Package: kvsetkeys ....-..-.. v... Key value parser (HO)
-))
-(../etoolbox.sty
+)) (../etoolbox.sty
 Package: etoolbox ....-..-.. v... e-TeX tools for LaTeX (JAW)
 \etb@tempcnta=\count...
-))
-(../amsthm.sty
+)) (../amsthm.sty
 Package: amsthm ....-..-.. v....6
 \thm@style=\toks...
 \thm@bodyfont=\toks...
@@ -40,13 +36,16 @@ Completed box being shipped out [1]
 ..\vbox(12.0+0.0)x390.0, glue set 12.0fil
 ...\glue 0.0 plus 1.0fil
 ...\hbox(0.0+0.0)x390.0
+....\hbox(0.0+0.0)x390.0
 ..\glue 19.8738
 ..\glue(\lineskip) 0.0
 ..\vbox(592.0+0.0)x390.0, glue set 265.0fil
 ...\write-{}
 ...\write-{}
-...\write1{\@writefile{toc}{\protect \contentsline {chapter}{\protect \numberline \ETC.}
-...\mark{{\protect \MakeUppercase  {Chapter\ 1. \ Introduction}}{}}
+...\write1{\@writefile{toc}{\protect \contentsline {chapter}{\protect \numberline {1}Introduction}{\thepage }{}\protected@file@percent }}
+...\marks1{\MakeUppercase    []{Chapter\ 1. \ Introduction}}
+...\marks2{\prg_do_nothing: }
+...\mark{{\MakeUppercase    []{Chapter\ 1. \ Introduction}}{}}
 ...\write1{\@writefile{lof}{\protect \addvspace {10\p@ }}}
 ...\write1{\@writefile{lot}{\protect \addvspace {10\p@ }}}
 ...\glue(\topskip) 12.0
@@ -55,6 +54,7 @@ Completed box being shipped out [1]
 ...\glue 50.0
 ...\glue 0.0
 ...\glue(\parskip) 7.25 plus 2.0
+...\glue(\parskip) 0.0
 ...\glue(\baselineskip) 12.72224
 ...\hbox(17.27776+4.83775)x390.0, glue set 133.33273fil
 ....\hbox(0.0+0.0)x0.0
@@ -73,6 +73,7 @@ Completed box being shipped out [1]
 ...\penalty 10000
 ...\glue 20.0
 ...\glue(\parskip) 7.25 plus 2.0
+...\glue(\parskip) 0.0
 ...\glue(\baselineskip) 7.88449
 ...\hbox(17.27776+0.0)x390.0, glue set 117.9843fil
 ....\hbox(0.0+0.0)x0.0
@@ -96,6 +97,7 @@ Completed box being shipped out [1]
 ...\penalty 10000
 ...\glue 40.0
 ...\glue(\parskip) 7.25 plus 2.0
+...\glue(\parskip) 0.0
 ...\glue(\baselineskip) 6.16669
 ...\hbox(8.33331+0.0)x390.0, glue set 301.3537fil
 ....\OT1/cmr/m/n/12 T
@@ -119,6 +121,7 @@ Completed box being shipped out [1]
 ....\glue(\parfillskip) 0.0 plus 1.0fil
 ....\glue(\rightskip) 0.0
 ...\glue(\parskip) 7.25 plus 2.0
+...\glue(\parskip) 0.0
 ...\glue(\baselineskip) 6.16669
 ...\hbox(8.33331+2.33331)x390.0, glue set 157.74408fil
 ....\hbox(0.0+0.0)x0.0
@@ -172,6 +175,7 @@ Completed box being shipped out [1]
 ...\penalty -51
 ...\glue 0.0
 ...\glue(\parskip) 7.25 plus 2.0
+...\glue(\parskip) 0.0
 ...\glue(\baselineskip) 3.83337
 ...\hbox(8.33331+2.33331)x390.0, glue set 165.21278fil
 ....\OT1/cmr/bx/n/12 P
@@ -227,6 +231,7 @@ Completed box being shipped out [1]
 ...\penalty -51
 ...\glue 0.0
 ...\glue(\parskip) 7.25 plus 2.0
+...\glue(\parskip) 0.0
 ...\glue(\baselineskip) 3.83337
 ...\hbox(8.33331+0.0)x390.0, glue set 309.38695fil
 ....\hbox(0.0+0.0)x0.0
@@ -250,6 +255,7 @@ Completed box being shipped out [1]
 ...\penalty -51
 ...\glue 0.0
 ...\glue(\parskip) 7.25 plus 2.0
+...\glue(\parskip) 0.0
 ...\glue(\baselineskip) 5.5
 ...\hbox(9.0+3.0)x390.0, glue set 177.45525fil
 ....\OT1/cmr/bx/n/12 T
@@ -298,6 +304,7 @@ Completed box being shipped out [1]
 ...\penalty -51
 ...\glue 0.0
 ...\glue(\parskip) 7.25 plus 2.0
+...\glue(\parskip) 0.0
 ...\glue(\baselineskip) 3.3
 ...\hbox(8.2+0.0)x390.0, glue set 335.82417fil
 ....\hbox(0.0+0.0)x0.0
@@ -317,8 +324,9 @@ Completed box being shipped out [1]
 ...\glue 0.0 plus 1.0fil
 ...\glue 0.0
 ..\glue(\baselineskip) 22.26668
-..\hbox(7.73332+0.0)x390.0, glue set 192.06253fil
-...\glue 0.0 plus 1.0fil
-...\OT1/cmr/m/n/12 1
-...\glue 0.0 plus 1.0fil
+..\hbox(7.73332+0.0)x390.0
+...\hbox(7.73332+0.0)x390.0, glue set 192.06253fil
+....\glue 0.0 plus 1.0fil
+....\OT1/cmr/m/n/12 1
+....\glue 0.0 plus 1.0fil
 (sx-450551.aux)
