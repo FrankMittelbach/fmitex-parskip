@@ -15,7 +15,7 @@ Package: kvsetkeys ....-..-.. v... Key value parser (HO)
 Package: etoolbox ....-..-.. v... e-TeX tools for LaTeX (JAW)
 \etb@tempcnta=\count...
 )) (../amsthm.sty
-Package: amsthm ....-..-.. v....6
+Package: amsthm ....-..-.. v...
 \thm@style=\toks...
 \thm@bodyfont=\toks...
 \thm@headfont=\toks...
@@ -43,8 +43,8 @@ Completed box being shipped out [1]
 ...\write-{}
 ...\write-{}
 ...\write1{\@writefile{toc}{\protect \contentsline {chapter}{\protect \numberline {1}Introduction}{\thepage }{}\protected@file@percent }}
-...\marks1{\MakeUppercase    []{Chapter\ 1. \ Introduction}}
-...\marks2{\prg_do_nothing: }
+...\marks1{\__mark_id:n {1}\MakeUppercase    []{Chapter\ 1. \ Introduction}}
+...\marks2{\__mark_id:n {2}}
 ...\mark{{\MakeUppercase    []{Chapter\ 1. \ Introduction}}{}}
 ...\write1{\@writefile{lof}{\protect \addvspace {10\p@ }}}
 ...\write1{\@writefile{lot}{\protect \addvspace {10\p@ }}}
